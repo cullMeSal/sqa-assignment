@@ -1,5 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import * as React from 'react'
+import * as ReactDOM from 'react-dom'
+import {} from 'react-router'
+import {BrowserRouter, RouterProvider, createBrowserRouter} from 'react-router-dom'
 
 function App() {
   return (
